@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "integration/恒常士テキスト：第2部.md",
+                "file": "outputs/chapter_5_2_3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "恒常士テキスト：第2部"
+              "title": "chapter_5_2_3"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outputs/chapter_8_quiz.md",
+                "file": "outputs/chapter_5_2_3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "chapter_8_quizへのバックリンク"
+              "title": "chapter_5_2_3へのバックリンク"
             }
           },
           {
@@ -165,14 +165,16 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "fcab9d9eb777e03d",
   "lastOpenFiles": [
+    "outputs/chapter_5_2_3.md",
+    "integration/恒常士テキスト：第2部.md",
     "integration/恒常士テキスト：第1部.md",
     "integration/恒常士テキスト：序章.md",
-    "integration/恒常士テキスト：第2部.md",
     "integration/恒常士テキスト：第1部250717bk.md",
     "outputs/chapter_17.md",
     "prompts/chapter_2bu_17_prompt.md",
@@ -195,7 +197,6 @@
     "outputs/chapter_16_5.md",
     "outputs/chapter_16_4.md",
     "outputs/chapter_16_3.md",
-    "outputs/chapter_16_2.md",
     "outputs/恒常士テキスト_第2部.pdf",
     "integration",
     "source_materials/男性タンパク質量02.jpg",

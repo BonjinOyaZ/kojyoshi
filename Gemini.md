@@ -18,6 +18,7 @@ konjoushi\_text/
 │
 
 ├── integration/                  ← 完成品の格納場所
+
 │
 
 ├── source\_materials/             integration・参考資料・スライド等（自動読み込み用）

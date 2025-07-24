@@ -1,0 +1,6 @@
+# 例：Pythonプロジェクト用の.gitignore
+__pycache__/
+.env
+.vscode/
+*.log
+*.pyc
